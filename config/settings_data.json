@@ -139,21 +139,21 @@
             "type": "link_list",
             "settings": {
               "heading": "AIDE",
-              "menu": "footer"
+              "menu": "footer-aide"
             }
           },
           "footer-1": {
             "type": "link_list",
             "settings": {
               "heading": "LA MARQUE",
-              "menu": ""
+              "menu": "footer"
             }
           },
           "fa073ccf-0a7c-4447-ad5b-105b39e41c3d": {
             "type": "link_list",
             "settings": {
               "heading": "MENTIONS LÉGALES",
-              "menu": ""
+              "menu": "footer-mentions-legales"
             }
           }
         },
