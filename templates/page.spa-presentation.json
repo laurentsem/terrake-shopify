@@ -1,0 +1,345 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16547703703ff554b9": {
+      "type": "rich-text",
+      "blocks": {
+        "16547703702e865eef-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>SPA TERRAKÉ Hôtel Bowmann*****<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16547703702e865eef-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vivez une expérience sensorielle TERRAKÉ<\/p>"
+          }
+        },
+        "16547703702e865eef-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "RÉSERVEZ VOTRE SOIN",
+            "button_link_1": "#",
+            "button_style_secondary_1": false,
+            "button_label_2": "CARTE DES SOINS",
+            "button_link_2": "shopify:\/\/pages\/carte-des-soins",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16547703702e865eef-0",
+        "16547703702e865eef-1",
+        "16547703702e865eef-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "165476586196b9605d": {
+      "type": "slideshow",
+      "blocks": {
+        "1654765861337666d1-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TERRAKE-SPA-BOWMANN-1.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1654765861337666d1-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TERRAKE-SPA-BOWMANN-1.webp",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "b202a5ed-4013-4d9f-a816-b7b3f6e4880b": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TERRAKE-SPA-BOWMANN-1.webp",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1654765861337666d1-0",
+        "1654765861337666d1-1",
+        "b202a5ed-4013-4d9f-a816-b7b3f6e4880b"
+      ],
+      "settings": {
+        "hide_containers": true,
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "SPA TERRAKÉ HÔTEL BOWMANN"
+      }
+    },
+    "1654766716737d1d40": {
+      "type": "multicolumn",
+      "blocks": {
+        "1654766715407b7b5c-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ELLE-LOGO-SM.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1654766715407b7b5c-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ELLE-LOGO-SM.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6559d326-f895-4ec2-aa1b-fc1ae25f6366": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ELLE-LOGO-SM.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e1c64d3b-cb46-4514-ab7d-3a193c97b7f4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ELLE-LOGO-SM.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1654766715407b7b5c-1",
+        "1654766715407b7b5c-2",
+        "6559d326-f895-4ec2-aa1b-fc1ae25f6366",
+        "e1c64d3b-cb46-4514-ab7d-3a193c97b7f4"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "165477020274206cb8": {
+      "type": "image-with-text",
+      "blocks": {
+        "165477020274d1d715-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "165477020274d1d715-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>L’Hôtel Bowmann*****, emblème du Paris du XXIe siècle, incarne au plus près l’alliance entre tradition et innovation, héritage et avant-gardisme, savoir-faire et créativité.<\/p><p>L’hôtel 5 étoiles propose de vivre « l’expérience parisienne » à travers un séjour authentique et personnalisé grâce à des services sur-mesure. De l’architecture historique jusqu’à la gastronomie, en passant par le décor éclectique et les services sur-mesure, l’hôtel permet au visiteur de devenir acteur dans l’histoire de l’une des plus belles villes du monde. Ses valeurs : authenticité, dynamisme, respect de l’héritage, goût de l’innovation.<\/p><p>Le Bowmann mêle Haussmann et l’anglicisme contemporain. En effet « Bow » signifie « to take a bow », de l’anglais, « faire part de son respect ». « Mann » est un hommage au nom du Baron Haussmann, une preuve de respect des volumes et de l’élégance à la française.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "165477020274d1d715-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165477020274d1d715-0",
+        "165477020274d1d715-1",
+        "165477020274d1d715-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HOTEL-BOWMANN.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1654770251881112ae": {
+      "type": "image-with-text",
+      "blocks": {
+        "1654770251dfb6365a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "1654770251dfb6365a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>L’Hôtel Bowmann***** est également un lieu romantique avec une piscine ouverte de 7h30 à 22h et des soins corps proposés en duo.<\/p><p>Une parenthèse de plaisir prolongée avec l’espace bien-être de l’hôtel, composé d’une piscine chauffée, mais aussi d’un hammam turque, d’un sauna, d’une tisanerie, d’une salle de gym et d’un jacuzzi.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1654770251dfb6365a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1654770251dfb6365a-0",
+        "1654770251dfb6365a-1",
+        "1654770251dfb6365a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TERRAKE-SPA-BOWMANN-1.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16547703708c028dc6": {
+      "type": "multicolumn",
+      "blocks": {
+        "1654770370002893e4-0": {
+          "type": "column",
+          "settings": {
+            "title": "SPA TERRAKÉ HÔTEL BOWMANN*****",
+            "text": "<p>99 Boulevard Haussmann <\/p><p>75008 Paris<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1654770370002893e4-1": {
+          "type": "column",
+          "settings": {
+            "title": "HORAIRES",
+            "text": "<p>Du lundi au dimanche <\/p><p>de 11h à 20H<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1654770370002893e4-2": {
+          "type": "column",
+          "settings": {
+            "title": "CONTACT",
+            "text": "<p>+33 (0)<strong> <\/strong>1 40 08 19 53<strong><br\/><\/strong><a href=\"mailto:spa@hotelbowmann.com\" target=\"_blank\"><strong>spa@hotelbowmann.com<\/strong><\/a><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1654770370002893e4-0",
+        "1654770370002893e4-1",
+        "1654770370002893e4-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "RÉSERVEZ VOTRE SOIN",
+        "button_link": "#",
+        "color_scheme": "accent-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16547703703ff554b9",
+    "165476586196b9605d",
+    "1654766716737d1d40",
+    "165477020274206cb8",
+    "1654770251881112ae",
+    "16547703708c028dc6"
+  ]
+}

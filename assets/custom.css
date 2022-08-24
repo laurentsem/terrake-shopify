@@ -1,0 +1,10 @@
+/* Breadcrumb | Fil d'Ariane (page produit) */
+
+.breadcrumb {
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+
+.breadcrumb a {
+    all: unset;
+}
