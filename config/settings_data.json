@@ -146,14 +146,14 @@
             "type": "link_list",
             "settings": {
               "heading": "LA MARQUE",
-              "menu": "footer-menu-la-marque"
+              "menu": ""
             }
           },
           "fa073ccf-0a7c-4447-ad5b-105b39e41c3d": {
             "type": "link_list",
             "settings": {
               "heading": "MENTIONS LÉGALES",
-              "menu": "footer-menu-mentions-l-gales"
+              "menu": ""
             }
           }
         },
